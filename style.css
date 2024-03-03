@@ -10,7 +10,6 @@
 body {
     display: flex;
     min-height: 100vh;
-    background-color: #bbc6fa;
     background-image: url(img1.jpg);
     background-size: cover;
     background-position: cover;
@@ -18,7 +17,7 @@ body {
 }
 
 .container {
-    background: rgba(255, 255, 255, 0.42);
+    background: rgba(255, 255, 255, 0.475);
     backdrop-filter: blur(10px);
     max-width: 40rem;
     position: absolute;
